@@ -1,6 +1,9 @@
 Forge ChangeLog
 ===============
 
+### Changed
+- Switch to eslint.
+
 ## 0.8.0 - 2019-01-31
 
 ### Fixed
